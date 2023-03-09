@@ -1,4 +1,9 @@
-# CodeJam - Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applications
+# CodeJam - Build processes, apps, and business sites without code with SAP Buildex3-SAP-Build-Work-Zone
+demo-actions
+demo-automation-bots
+ex0-Getting-Started
+ex1-SAP-Build-Process-Automation
+ex2-SAP-Build-Apps
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/build-codejam)](https://api.reuse.software/info/github.com/SAP-samples/build-codejam)
 
