@@ -1,4 +1,4 @@
-# CodeJam - Build processes, apps, and business sites without code with SAP Build
+# CodeJam - With SAP Build, Create Apps, Processes, and Business Sites Without Coding
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/build-codejam)](https://api.reuse.software/info/github.com/SAP-samples/build-codejam)
 
@@ -12,23 +12,14 @@ Specifically, you will get to know the environment by creating:
 * An app that lets users specify sales order data and trigger that process (**SAP Build Apps**).
 * A business site in which you will embed that app (**SAP Build Work Zone**).
 
-## Overview
-
-
-
-### Material organization
-
-The material consists of a series of exercises. The exercises build on each other, so you create a process with a process ID, which is required in the SAP Build Apps app for triggering it.
-
-The exercises could be done independently, for example, if you have a different process to trigger you do not have to create a new one. But generally the exercises should be done in order.
-
 ### Following the exercises
 
 During the CodeJam you will complete each exercise one at a time. At the end of each exercise there are questions; these are designed to help you think about the content just covered, and are to be discussed with the entire CodeJam class, led by the instructor, when everyone has finished that exercise.
 
 If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
 
-> The exercises are written in a conversational way; this is so that they have enough context and information to be completed outside the hands-on session itself. To help you navigate and find what you have to actually do next, there are pointers like this 👉 throughout that indicate the things you have to actually do (as opposed to just read for background information).
+The exercises are written in a conversational way; this is so that they have enough context and information to be completed outside the hands-on session itself. To help you navigate and find what you have to actually do next, there are pointers like this 👉 throughout that indicate the things you have to actually do (as opposed to just read for background information).
+
 
 ### The exercises
 
@@ -42,10 +33,6 @@ Here's an overview of the exercises in this CodeJam.
 * SAP Build Work Zone
 
 
-## Known Issues
-
-None
-
 ## Feedback
 
 If you can spare a couple of minutes at the end of the session, please help me improve for next time by giving me some feedback.
@@ -57,10 +44,6 @@ Simply use this [Give Feedback](https://github.com/SAP-samples/build-codejam/iss
 [Create an issue](https://github.com/SAP-samples/build-codejam/issues) in this repository if you find a bug or have questions about the content.
 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
-
-## Further connections and information
-
-Here are a few pointers to resources for further connections and information:
 
 ## Contributing
 

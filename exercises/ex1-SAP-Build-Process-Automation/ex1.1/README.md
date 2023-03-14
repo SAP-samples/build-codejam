@@ -6,7 +6,7 @@ In this exercise, we use SAP Build Process Automation to create a simple process
 
 The process receives the sales order details and then either:
 
-- Automatically approves the sales if it is below a certain threshold
+- Automatically approves the sales order if it is below a certain threshold.
   
 - Sends an approval form to the specified approver. Once the approver approves, the process ends. 
 
@@ -32,4 +32,4 @@ You have now created a simple process in SAP Build Process Automation. Before bu
 
 ## Next
 
-Continue to 👉 [Exercise 1.2 - Run the Sales Order Business Process](../ex1.1/README.md)
+Continue to 👉 [Exercise 1.2 - Run the Sales Order Business Process](../ex1.2/README.md)

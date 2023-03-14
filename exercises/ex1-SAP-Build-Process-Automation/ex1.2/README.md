@@ -1,6 +1,8 @@
-# Exercise 1.1 - Create Sales Order Business Process 
+# Exercise 1.2 - Run the Sales Order Business Process
+ 
+In this exercise, we will deploy the process, trigger the process, and then discover the tools for monitoring the process.
 
-In this exercise, we will test the process, and learn how to monitor a process and its instances.
+![Process](/images/ex1.2/monitoring.png)
 
 
 ## Exercises
