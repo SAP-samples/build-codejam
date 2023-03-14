@@ -16,15 +16,6 @@ We will use the SAP BTP cockpit as a graphical tool to provision your free SAP H
 
 SAP Business Application Studio is a development environment available on SAP Business Technology Platform. Before you can start developing using SAP Business Application Studio, you must perform the required onboarding steps that are described in this step once. Please choose your path based upon if you are using the [SAP BTP free tier](https://developers.sap.com/tutorials/btp-free-tier-account.html) or [SAP BTP free trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html).
 
-<details><summary>SAP BTP free tier</summary>
-
-1. If you are using the [SAP BTP free tier](https://developers.sap.com/tutorials/btp-free-tier-account.html), then complete the following steps
-
-
-</details>
-
-<details><summary>SAP BTP free trial</summary>
-
 
 ## Summary
 
@@ -41,4 +32,4 @@ Now that you have your SAP HANA Cloud database instance and have setup the basic
 
 ## Next
 
-Continue to 👉 [Exercise 2 - Create an SAP Cloud Application Programming Model Project for SAP HANA Cloud](../ex2/README.md)
+Continue to 👉 [Exercise 1.1 - Create Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)

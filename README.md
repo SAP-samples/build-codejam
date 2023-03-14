@@ -36,8 +36,8 @@ Here's an overview of the exercises in this CodeJam.
 
 * [Getting Started - Set Up SAP HANA Cloud and Development Environment](exercises/ex0-Getting-Started/README.md)
 * SAP Build Process Automation
-  * [Exercise 1.1 - Create Sales Order Business Process](ex1-SAP-Build-Process-Automation/ex1.1/README.md)
-  * [Exercise 1.2 - Run the Sales Order Business Process](ex1-SAP-Build-Process-Automation/ex1.2/README.md) 
+  * [Exercise 1.1 - Create Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)
+  * [Exercise 1.2 - Run the Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.2/README.md) 
 * SAP Build Apps
 * SAP Build Work Zone
 
