@@ -1,10 +1,16 @@
-# CodeJam - Build processes, apps, and business sites without code with SAP Buildex3-SAP-Build-Work-Zone
+# CodeJam - Build processes, apps, and business sites without code with SAP Build
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/build-codejam)](https://api.reuse.software/info/github.com/SAP-samples/build-codejam)
 
 ## Description
 
-This repository contains the material for the CodeJam on using SAP Build to create a process, an app, and a business site. Specifically, you will get to know SAP Build Apps, SAP Build Processs Automation, and SAP Build Work Zone by creating a sales order approval process, an app that lets users specify sales order data and trigger the process, and a business site for embedding the app.
+This repository contains the material for the CodeJam on using **SAP Build** to create a process, an app, and a business site. 
+
+Specifically, you will get to know the environment by creating:
+
+* A sales order approval process (**SAP Build Process Automation**).
+* An app that lets users specify sales order data and trigger that process (**SAP Build Apps**).
+* A business site in which you will embed that app (**SAP Build Work Zone**).
 
 ## Overview
 
@@ -28,6 +34,12 @@ If you finish an exercise early, please resist the temptation to continue with t
 
 Here's an overview of the exercises in this CodeJam.
 
+* [Getting Started - Set Up SAP HANA Cloud and Development Environment](exercises/ex0-Getting-Started/README.md)
+* SAP Build Process Automation
+  * [Exercise 1.1 - Create Sales Order Business Process](ex1-SAP-Build-Process-Automation/ex1.1/README.md)
+  * [Exercise 1.2 - Run the Sales Order Business Process](ex1-SAP-Build-Process-Automation/ex1.2/README.md) 
+* SAP Build Apps
+* SAP Build Work Zone
 
 
 ## Known Issues
