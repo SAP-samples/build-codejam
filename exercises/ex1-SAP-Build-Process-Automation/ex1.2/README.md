@@ -14,10 +14,15 @@ Perform all the steps in 👉 tutorial:
 
 ## Summary
 
+You have learned how to kick off a process for testing from within the Monitor tab, how to monitor the instance to see what data was sent to it and what steps were taken so far, and how to see the tasks in **My Inbox**.
 
+With both exercises for SAP Build Process Automation, you can now create a process, test it, and monitor it. In the next set of exercises, you will learn to create an app that can trigger the process.
 
 
 ### Questions for Discussion
+
+* What is the difference between a process and a process instance?
+* What is the context of a process instance?
 
 
 ## Further Study
@@ -26,4 +31,4 @@ Perform all the steps in 👉 tutorial:
 
 ## Next
 
-Continue to 👉 [Exercise 2.1 - Create SAP Build App to Trigger Workflow](../ex2.1/README.md)
+Continue to 👉 [Exercise 2.1 - Create SAP Build App to Trigger Workflow](/exercises/ex2-SAP-Build-Apps/ex2.1/README.md)

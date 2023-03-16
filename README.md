@@ -12,6 +12,9 @@ Specifically, you will get to know the environment by creating:
 * An app that lets users specify sales order data and trigger that process (**SAP Build Apps**).
 * A business site in which you will embed that app (**SAP Build Work Zone**).
 
+![SAP Build](/images/MyPresentation.png)
+
+
 ### Following the exercises
 
 During the CodeJam you will complete each exercise one at a time. At the end of each exercise there are questions; these are designed to help you think about the content just covered, and are to be discussed with the entire CodeJam class, led by the instructor, when everyone has finished that exercise.

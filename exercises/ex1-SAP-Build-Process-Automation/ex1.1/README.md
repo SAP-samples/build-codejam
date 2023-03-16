@@ -24,10 +24,17 @@ You have now created a simple process in SAP Build Process Automation. Before bu
 
 ### Questions for Discussion
 
+- Within an SAP Build Process Automation project, what types of artifacts can you create, and why would you need each one?
+  - Where can I see all the available artifacts?
 - Within a process, what types of steps can you create?
+- Both the Condition step and the Decision step let you analyze the data in your process and make your process dynamic. What is the difference between those 2 step types?
+
 
 ## Further Study
 
+[Create a Business Process (documentation)](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/c476794dec4f4f91b0901486b622c7de.html)
+[Learn to Build Processes with SAP Process Automation (video)](https://www.youtube.com/watch?v=s9bxCLPa-zI)
+[How to Build Your Process with SAP Process Automation? (video)](https://www.youtube.com/watch?v=GrI4noyaoSY&list=PLuwTe-PeCFmmTB110dSw0_do0bCdkn_Dm&index=2)
 
 
 ## Next
