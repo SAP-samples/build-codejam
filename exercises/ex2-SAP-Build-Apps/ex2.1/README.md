@@ -29,9 +29,12 @@ You have now created a simple process in SAP Build Process Automation. Before bu
 
 ## Further Study
 
-* [Tools to Manage and Access the SAP HANA Cloud, SAP HANA Database](https://developers.sap.com/tutorials/hana-cloud-mission-trial-3.html)
-* [SAP HANA Cloud](https://community.sap.com/topics/hana)
-* [SAP Business Application Studio](https://community.sap.com/topics/business-application-studio)
+- [Tools to Manage and Access the SAP HANA Cloud, SAP HANA Database](https://developers.sap.com/tutorials/hana-cloud-mission-trial-3.html)
+
+- [SAP HANA Cloud](https://community.sap.com/topics/hana)
+
+- [SAP Business Application Studio](https://community.sap.com/topics/business-application-studio)
+  
 
 ## Next
 

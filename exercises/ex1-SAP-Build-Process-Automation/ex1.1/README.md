@@ -32,9 +32,11 @@ You have now created a simple process in SAP Build Process Automation. Before bu
 
 ## Further Study
 
-[Create a Business Process (documentation)](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/c476794dec4f4f91b0901486b622c7de.html)
-[Learn to Build Processes with SAP Process Automation (video)](https://www.youtube.com/watch?v=s9bxCLPa-zI)
-[How to Build Your Process with SAP Process Automation? (video)](https://www.youtube.com/watch?v=GrI4noyaoSY&list=PLuwTe-PeCFmmTB110dSw0_do0bCdkn_Dm&index=2)
+- [Create a Business Process (documentation)](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/c476794dec4f4f91b0901486b622c7de.html)
+  
+- [Learn to Build Processes with SAP Process Automation (video)](https://www.youtube.com/watch?v=s9bxCLPa-zI)
+ 
+- [How to Build Your Process with SAP Process Automation? (video)](https://www.youtube.com/watch?v=GrI4noyaoSY&list=PLuwTe-PeCFmmTB110dSw0_do0bCdkn_Dm&index=2)
 
 
 ## Next
