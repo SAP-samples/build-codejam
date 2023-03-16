@@ -1,41 +1,47 @@
 # Exercise 2.1 - Create SAP Build App to Trigger Workflow
  
-
 In this exercise, we use SAP Build Process Automation to create a simple process for approving a sales order.
 
-![Process](../../../images/ex1.1/process.png)
+![Process](/images/ex2.1/page1-goal.png)
 
-The process receives the sales order details and then either:
+When making the app, you will:
 
-- Automatically approves the sales if it is below a certain threshold
-  
-- Sends an approval form to the specified approver. Once the approver approves, the process ends. 
+- Create the UI.
+- Set up a connection to the SAP Build Process Automation API.
+- Test the connection.
+- Create a data variable to hold the sales order details and bind it to the UI.
+- Create a button and add logic to trigger the workflow. 
 
 ## Exercises
 
 Perform all the steps in 👉 tutorial: 
 
-- [Create Sales Order Business Process](https://developers.sap.com/tutorials/spa-academy-salesorder.html)
+- [Create SAP Build App to Trigger Workflow](https://developers.sap.com/tutorials/build-apps-workflow-trigger.html)
 
 
 ## Summary
 
-You have now created a simple process in SAP Build Process Automation. Before building an app to trigger it, we want to test the process, in the next tutorial.
+You have now created a simple app that lets users enter sales order details and trigger an approval process.
 
+Next, we will improve the app by letting users select the product in a dropdown list instead of typing in the product code.
 
 ### Questions for Discussion
 
-- Within a process, what types of steps can you create?
+- What types of data resources can you connect to?
+
+- What type of styling and layouting can you do in your app?
+
+- Why do you need data variables if you create a data resource? In other words, what is the purpose of a data resource and what is the purpose of a data variable?
 
 ## Further Study
 
-- [Tools to Manage and Access the SAP HANA Cloud, SAP HANA Database](https://developers.sap.com/tutorials/hana-cloud-mission-trial-3.html)
+- [Create a Wine Store App (video by Onno Bos)](https://www.youtube.com/watch?v=CaFHLkpHAZ8)
 
-- [SAP HANA Cloud](https://community.sap.com/topics/hana)
+- [App shows earthquake data in your region (blog)](https://blogs.sap.com/2023/02/15/app-shows-earthquake-data-in-your-region-donations/)
 
-- [SAP Business Application Studio](https://community.sap.com/topics/business-application-studio)
+- [Make Your App Beautiful (video by Mevi Melkko)](https://www.youtube.com/watch?v=kxUjtGPyLeE)
   
 
 ## Next
 
-Continue to 👉 [Exercise 1.2 - Run the Sales Order Business Process](../ex1.1/README.md)
+Continue to 👉 [Exercise 2.2 - Populate Dropdown with SAP Data (ES5)](../ex2.2/README.md)

@@ -27,7 +27,7 @@ With both exercises for SAP Build Process Automation, you can now create a proce
 
 ## Further Study
 
-- [How to Release, Deploy and Run Your Process](https://www.youtube.com/watch?v=ZPYV4xRuTGA)
+- [How to Release, Deploy and Run Your Process (video)](https://www.youtube.com/watch?v=ZPYV4xRuTGA)
   
 - [Monitoring Processes (documentation)](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/de40f56efdff44a09724480367803b8b.html?q=monitor)
   
