@@ -1,38 +1,42 @@
-# Exercise 2.1 - Create SAP Build App to Trigger Workflow
+# Exercise 2.3 - Check Status of Process from SAP Build App
  
 
-In this exercise, we use SAP Build Process Automation to create a simple process for approving a sales order.
+In this exercise, we will create a record of the processes we trigger by storing each process instance's ID in the local device storage, and then use an SAP Build Process Automation API to check the status of the process.
 
-![Process](../../../images/ex1.1/process.png)
+You will also see how to create another page in your app, and to use the Navigation feature to go between the 2 pages.
 
-The process receives the sales order details and then either:
+![Process](/images/ex2.3/data-rerun.png)
 
-- Automatically approves the sales if it is below a certain threshold
-  
-- Sends an approval form to the specified approver. Once the approver approves, the process ends. 
 
 ## Exercises
 
 Perform all the steps in 👉 tutorial: 
 
-- [Create Sales Order Business Process](https://developers.sap.com/tutorials/spa-academy-salesorder.html)
+- [Check Status of Process from SAP Build App](https://developers.sap.com/tutorials/build-apps-workflow-check-status.html)
 
 
 ## Summary
 
-You have now created a simple process in SAP Build Process Automation. Before building an app to trigger it, we want to test the process, in the next tutorial.
+You have now created a new page to keep track of the processes started by the user, and to let the user retrieve the current status of the process instance.
+
 
 
 ### Questions for Discussion
 
-- Within a process, what types of steps can you create?
+- What types of data do you think makes sense to store in on-device storage?
+
+- What other SAP Build Process Automation APIs are there -- see [SAP API Business Hub](https://api.sap.com/package/SAPProcessAutomation/all) -- and why might you use them? 
+
+- To get the information about the process instance, we created a new data resource, and also used the "Create" method to make the API call. Could we have used the Trigger Workflow data resource we created in the earlier tutorial? Why or Why not?
+   
 
 ## Further Study
 
-* [Tools to Manage and Access the SAP HANA Cloud, SAP HANA Database](https://developers.sap.com/tutorials/hana-cloud-mission-trial-3.html)
-* [SAP HANA Cloud](https://community.sap.com/topics/hana)
-* [SAP Business Application Studio](https://community.sap.com/topics/business-application-studio)
+* [SAP Build Process Automation APIs](https://api.sap.com/package/SAPProcessAutomation/all)
+  
+* [Navigation (Documentation)](https://docs.appgyver.com/docs/en/navigation)
+* [No-code Power-up: Custom Flow Functions (video)](https://www.youtube.com/watch?v=L4DUOvNQ46M)
 
 ## Next
 
-Continue to 👉 [Exercise 1.2 - Run the Sales Order Business Process](../ex1.1/README.md)
+Continue to 👉 [Exercise 2.4 - Deploy SAP Build App to SAP BTP](../ex2.4/README.md)

@@ -1,38 +1,41 @@
-# Exercise 2.1 - Create SAP Build App to Trigger Workflow
- 
+# Exercise 2.4 - Deploy SAP Build App to SAP BTP
 
-In this exercise, we use SAP Build Process Automation to create a simple process for approving a sales order.
+In this exercise, we will build the app and deploy it to SAP BTP to make it available to our users, and to make it available to be embedded into SAP Build Work Zone.
 
-![Process](../../../images/ex1.1/process.png)
+![Process](/images/ex2.4/deploy1.png)
 
-The process receives the sales order details and then either:
+>A few things to note:
 
-- Automatically approves the sales if it is below a certain threshold
-  
-- Sends an approval form to the specified approver. Once the approver approves, the process ends. 
+>You must be a member of the Cloud Foundry org and space to which you are deploying.
+
+> You can only deploy to the default space of an Cloud Foundry org.
+
+>When deploying, you will have to log into Cloud Foundry using the same credentials as you used for logging into SAP BTP originally.
+
 
 ## Exercises
 
 Perform all the steps in 👉 tutorial: 
 
-- [Create Sales Order Business Process](https://developers.sap.com/tutorials/spa-academy-salesorder.html)
+- [Deploy SAP Build App to SAP BTP](https://developers.sap.com/tutorials/build-apps-deply.html)
 
 
 ## Summary
 
-You have now created a simple process in SAP Build Process Automation. Before building an app to trigger it, we want to test the process, in the next tutorial.
+You have now deployed the app to SAP BTP and you can show it with other members of this SAP BTP tenant.
 
 
 ### Questions for Discussion
 
-- Within a process, what types of steps can you create?
+- Where can you deploy an SAP Build Apps project?
+
 
 ## Further Study
 
-* [Tools to Manage and Access the SAP HANA Cloud, SAP HANA Database](https://developers.sap.com/tutorials/hana-cloud-mission-trial-3.html)
+* [Build and Deploy Web Applications](https://help.sap.com/docs/build-apps/service-guide/build-and-deploy-web-applications)
 * [SAP HANA Cloud](https://community.sap.com/topics/hana)
 * [SAP Business Application Studio](https://community.sap.com/topics/business-application-studio)
 
 ## Next
 
-Continue to 👉 [Exercise 1.2 - Run the Sales Order Business Process](../ex1.1/README.md)
+Continue to 👉 [TK](../ex1.1/README.md)
