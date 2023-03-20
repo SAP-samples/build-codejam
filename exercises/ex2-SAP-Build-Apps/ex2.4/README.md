@@ -38,4 +38,4 @@ You have now deployed the app to SAP BTP and you can show it with other members 
 
 ## Next
 
-Continue to 👉 [TK](../ex1.1/README.md)
+Continue to 👉 [Exercise 3.1 - Add a Workspace to SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.1/README.md)
