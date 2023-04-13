@@ -14,16 +14,7 @@ Perform all the steps in 👉 tutorials:
 
 ## Summary
 
-You have now .....
-
-
-### Questions for Discussion
-
-- ....
-
-
-## Further Study
-
+You have now created a workspace in which you can add your apps and processes.
 
 
 ## Next
