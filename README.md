@@ -15,6 +15,19 @@ Specifically, you will get to know the environment by creating:
 ![SAP Build](/images/MyPresentation.png)
 
 
+### What you will build
+
+You will build an application that allows a user to enter sales order data, and then allows a manager to approve the sales order. To make all this simpler for the user, you will embed the app inside a business website along with other related apps and tools.
+
+To acconmploish this, you will create 3 inter-related tools:
+
+- First, you will create the process with SAP Build Process Automation for taking sales order details, which will send a request for approval to the manager.
+- Second, you will create an app with SAP Build Apps that allows a user to enter sales order details and sends the data to the process and triggers the process.
+- And third, you will create a workspace in SAP Build Work Zone and embed the app there.
+
+![image](https://user-images.githubusercontent.com/11659786/231709754-a833a81f-d9ee-4911-9dfe-710fcdcc404c.png)
+
+
 ### Following the exercises
 
 During the CodeJam you will complete each exercise one at a time. At the end of each exercise there are questions; these are designed to help you think about the content just covered, and are to be discussed with the entire CodeJam class, led by the instructor, when everyone has finished that exercise.
