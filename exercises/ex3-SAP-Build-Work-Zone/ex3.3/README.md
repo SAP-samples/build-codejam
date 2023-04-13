@@ -16,7 +16,3 @@ Perform all the steps in 👉 tutorial:
 
 You have now embedded an SAP Build Apps application so it can be accessed in the same place as related business tools and data.
 
-
-## Next
-
-Continue to 👉 [TK](/exercises/ex3-SAP-Build-Work-Zone/ex3.1/README.md)
