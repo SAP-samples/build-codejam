@@ -1,6 +1,6 @@
 # Exercise 3.1 - Access SAP Build Work Zone and Add Workspace
 
-In this exercise, we will .....
+In this exercise, you will start working with SAP Build Work Zone, and create a special workspace for your content.
 
 
 ## Exercises
