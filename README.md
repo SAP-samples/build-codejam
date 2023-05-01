@@ -19,7 +19,7 @@ Specifically, you will get to know the environment by creating:
 
 You will build an application that allows a user to enter sales order data, and then allows a manager to approve the sales order. To make all this simpler for the user, you will embed the app inside a business website along with other related apps and tools.
 
-To acconmploish this, you will create 3 inter-related tools:
+To accomplish this, you will create 3 inter-related parts using for each one of the SAP Build tools:
 
 - First, you will create the process with SAP Build Process Automation for taking sales order details, which will send a request for approval to the manager.
 - Second, you will create an app with SAP Build Apps that allows a user to enter sales order details and sends the data to the process and triggers the process.
