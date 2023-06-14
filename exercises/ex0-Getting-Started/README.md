@@ -1,9 +1,16 @@
-# Getting Started with the SAP Build Lobby
+# Getting Setup with the SAP Build Lobby
 
-Before you can start, you will need access to the SAP Build lobby. You will be given:
+The SAP Build lobby is the starting point for all your SAP Build activities, whichever tool you will be using.
 
+To get setup, you will be given the following:
+
+- Credentials for signing into SAP BTP
 - Link to open the lobby
-- Credentials for signing into the lobby
+- Link to the SAP BTP cockpit (just to check your deployed app)
+- Link to the SAP Business Application Studio
+- An origin key (just for deploying your app when asked to sign in – this will be explained in the session)
+
+>All destinations and the mail server have been setup for you. You will NOT need to create these. 
 
 ## Sign into the lobby
 
