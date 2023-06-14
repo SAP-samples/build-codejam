@@ -69,4 +69,4 @@ Now that you have access to the SAP Build lobby, you can start building your app
 
 ## Next
 
-Continue to 👉 [Exercise 1.1 - Create Sales Order Business Process](/exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)
+We're almost ready to start. A few important tips before you get started 👉 [Important Tips Before Starting](ImportantTips.md)
