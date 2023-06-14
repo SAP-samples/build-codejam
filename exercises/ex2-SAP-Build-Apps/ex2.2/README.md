@@ -1,4 +1,4 @@
-# Exercise 2.2 - Populate Dropdown with SAP Data (ES5)
+# Exercise 2.2 - Populate Dropdown with SAP Data – ES5 (optional)
 
 In this exercise, we want to create a dropdown list for selecting the product, instead of an input field, to make it easier for the user.
 

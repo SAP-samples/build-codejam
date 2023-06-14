@@ -1,4 +1,4 @@
-# Exercise 2.3 - Check Status of Process from SAP Build App
+# Exercise 2.3 - Check Status of Process from SAP Build App (optional)
  
 
 In this exercise, we will create a record of the processes we trigger by storing each process instance's ID in the local device storage, and then use an SAP Build Process Automation API to check the status of the process.

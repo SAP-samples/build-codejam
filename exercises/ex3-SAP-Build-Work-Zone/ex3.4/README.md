@@ -1,4 +1,4 @@
-# Exercise 3.3 - Create/Add UI5 Integration Card to Display Business Data (optional) 
+# Exercise 3.4 - Create/Add UI5 Integration Card to Display Business Data (optional) 
 
 
 In this exercise, you will create a UI5 integration card to take business data from the ES5 gateway demo system and display it in your workspace in SAP Build Work Zone.

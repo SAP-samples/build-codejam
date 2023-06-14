@@ -1,4 +1,4 @@
-# Exercise 3.4 - Integrate an SAP Build Apps Application into SAP Build Work Zone
+# Exercise 3.3 - Integrate an SAP Build Apps Application into SAP Build Work Zone
 
 
 In this exercise, you can embed an SAP Build Apps application so it can be accessed in the same place as related business tools and data.

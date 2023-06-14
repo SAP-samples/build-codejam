@@ -42,22 +42,24 @@ The exercises are written in a conversational way; this is so that they have eno
 Here's an overview of the exercises in this CodeJam.
 
 * [Getting Started with the SAP Build Lobby](exercises/ex0-Getting-Started/README.md)
+  * [Important Tips Before Starting](exercises/ex0-Getting-Started/ImportantTips.md)
 * SAP Build Process Automation
   * [Exercise 1.1 - Create Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)
   * [Exercise 1.2 - Run the Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.2/README.md) 
 * SAP Build Apps
   * [Exercise 2.1 - Create SAP Build App to Trigger Workflow](exercises/ex2-SAP-Build-Apps/ex2.1/README.md)
-  * [Exercise 2.2 - Populate Dropdown with SAP Data (ES5)](exercises/ex2-SAP-Build-Apps/ex2.2/README.md) (Optional)
-  * [Exercise 2.3 - Check Status of Process from SAP Build App](exercises/ex2-SAP-Build-Apps/ex2.3/README.md) (Optional)
+  * [Exercise 2.2 - Populate Dropdown with SAP Data (ES5)](exercises/ex2-SAP-Build-Apps/ex2.2/README.md) (optional)
+  * [Exercise 2.3 - Check Status of Process from SAP Build App](exercises/ex2-SAP-Build-Apps/ex2.3/README.md) (optional)
   * [Exercise 2.4 - Deploy SAP Build App to SAP BTP](exercises/ex2-SAP-Build-Apps/ex2.4/README.md)
 * SAP Build Work Zone
   * [Exercise 3.1 - Add a Workspace to SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.1/README.md)
   * [Exercise 3.2 - Add a Web Dynpro ABAP App to Your SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.2/README.md)
   * [Exercise 3.3 - Integrate an SAP Build App Application into SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.3/README.md)
+  * [Exercise 3.4 - Create/Add UI5 Integration Card to Display Business Data](/exercises/ex3-SAP-Build-Work-Zone/ex3.4/README.md) (optional)
 
 ## Feedback
 
-If you can spare a couple of minutes at the end of the session, please help me improve for next time by giving me some feedback.
+If you can spare a couple of minutes at the end of the day, please help me improve for next time by giving me some feedback.
 
 Simply use this [Give Feedback](https://github.com/SAP-samples/build-codejam/issues/new?assignees=&labels=feedback&template=session-feedback-template.md&title=Feedback) link to create a special "feedback" issue, and follow the instructions in there.
 
