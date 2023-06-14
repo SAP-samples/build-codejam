@@ -41,7 +41,7 @@ The exercises are written in a conversational way; this is so that they have eno
 
 Here's an overview of the exercises in this CodeJam.
 
-* [Getting Started with the SAP Build Lobby](exercises/ex0-Getting-Started/README.md)
+* 👉 [Getting Started with the SAP Build Lobby](exercises/ex0-Getting-Started/README.md)
   * [Important Tips Before Starting](exercises/ex0-Getting-Started/ImportantTips.md)
 * SAP Build Process Automation
   * [Exercise 1.1 - Create Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)
