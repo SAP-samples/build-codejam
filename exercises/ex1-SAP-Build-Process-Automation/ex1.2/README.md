@@ -23,6 +23,8 @@ With both exercises for SAP Build Process Automation, you can now create a proce
 
 * What is the difference between a process and a process instance?
 * What is the context of a process instance?
+* What is the execution log of a process instance?
+* What types of processes can you imagine building?
 
 
 ## Further Study

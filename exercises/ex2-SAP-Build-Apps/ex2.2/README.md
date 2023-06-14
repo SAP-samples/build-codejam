@@ -41,7 +41,7 @@ In the dropdown list binding, you also saw a more sophisticated formula that tak
 
 - What types of data resources can you create?
 
-- How would compare the usefulness of the Formula binding with the Object with properties binding? Did you notice anything about what happens when you go from Formula to Object with properties binding, as opposed to the other way around? 
+- How would you compare the usefulness of the Formula binding with the Object with properties binding? Did you notice anything about what happens when you go from Formula to Object with properties binding, as opposed to the other way around? 
   
 
 ## Further Study

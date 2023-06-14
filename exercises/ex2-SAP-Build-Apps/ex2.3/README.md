@@ -25,6 +25,8 @@ You have now created a new page to keep track of the processes started by the us
 
 - What types of data do you think makes sense to store in on-device storage?
 
+- Do you think for this use case that on-device storage makes sense?
+
 - What other SAP Build Process Automation APIs are there -- see [SAP API Business Hub](https://api.sap.com/package/SAPProcessAutomation/all) -- and why might you use them? 
 
 - To get the information about the process instance, we created a new data resource, and also used the "Create" method to make the API call. Could we have used the Trigger Workflow data resource we created in the earlier tutorial? Why or Why not?

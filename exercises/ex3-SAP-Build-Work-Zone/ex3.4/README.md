@@ -21,6 +21,14 @@ You have now taken business data from the ES5 gateway demo system and displayed 
 
 This is the last tutorial in the SAP Build Code Jam.
 
+### Questions for Discussion
+
+- What types of business data – and in what display formats – would be worthwhile to bring into SAP Build Work Zone?
+  
+## Further Study
+
+- [How to Bring Business Data into SAP Work Zone](https://www.youtube.com/watch?v=wapRJge70Mk) (video)
+
 ## Next
 
-Continue to 👉 [Exercise 3.4 - Create/Add UI5 Integration Card to Display Business Data (optional)](/exercises/ex3-SAP-Build-Work-Zone/ex3.3/README.md)
+This is the end of the SAP Build Code Jam. We hope you've enjoyed it 😺.

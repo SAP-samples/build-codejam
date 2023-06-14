@@ -31,7 +31,7 @@ Next, we will improve the app by letting users select the product in a dropdown 
 
 - What type of styling and layouting can you do in your app?
 
-- Why do you need data variables if you create a data resource? In other words, what is the purpose of a data resource and what is the purpose of a data variable?
+- Why do you need data variables if you create a data resource? In other words, what is the purpose of a data resource and what is the purpose of a data variable? Is there a way to avoid data variables? 
 
 ## Further Study
 

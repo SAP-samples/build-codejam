@@ -14,6 +14,14 @@ Perform all the steps in 👉 tutorial:
 
 You have now embedded an SAP application (Web Dynpro) into your workspace to provide easy access to your users along with other related apps, processes, business data and productivity tools.
 
+### Questions for Discussion
+
+- What other types of apps can you add to SAP Build Work Zone? (Hint: see the options in **App UI Technology** field)
+
+
+## Further Study
+
+- [Adding Apps to Your Site](https://help.sap.com/docs/build-work-zone-advanced-edition/sap-build-work-zone-advanced-edition/adding-apps-to-your-site) (documentation)
 
 ## Next
 

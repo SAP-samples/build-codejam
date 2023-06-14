@@ -69,4 +69,4 @@ Now that you have access to the SAP Build lobby, you can start building your app
 
 ## Next
 
-We're almost ready to start. A few important tips before you get started 👉 [Important Tips Before Starting](ImportantTips.md)
+WAIT!! We're almost ready to start. But first a few important tips before you get going 👉 [Important Tips Before Starting](ImportantTips.md)
