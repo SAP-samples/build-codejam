@@ -10,7 +10,7 @@ What can take a process to the next level is the able to update external systems
 
 ### Questions for Discussion
 
-
+- What type of use cases could you imagine for using Actions within a process?
 
 
 ## Further Study
