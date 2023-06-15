@@ -57,6 +57,8 @@ Here's an overview of the exercises in this CodeJam.
   * [Exercise 3.3 - Integrate an SAP Build App Application into SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.3/README.md)
   * [Exercise 3.4 - Create/Add UI5 Integration Card to Display Business Data](/exercises/ex3-SAP-Build-Work-Zone/ex3.4/README.md) (optional)
 
+[Extra Credit topics](/exercises/extra-credit/README.md) (coming soon) 
+
 ## Feedback
 
 If you can spare a couple of minutes at the end of the day, please help me improve for next time by giving me some feedback.

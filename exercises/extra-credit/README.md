@@ -1,22 +1,34 @@
 # Extra Credit (lucky you!)
 
-The formal exercises for the code jam are completed. But in case you want to continue to learn, we have provided a few addition challenges to extend what you've already done and to teach some important concepts or features.
+The formal exercises for the Code Jam are completed. But in case you want to continue to learn, we have provided a few addition challenges to extend what you've already done and to teach some important concepts or features.
 
 
 ## Exercises 
 
-* [Add date picker to your sales order app](/exercises/extra-credit/DatePicker/README.md)
-  
-    In the sales order app, we had a field for the expected delivery, but it used an input box -- the user had to know the format and type it in manually. Instead, we can use the Date Picker component to let the user pick the date.
+* [Manipulate data with formula](https://groups.community.sap.com/t5/sap-builders-discussions/sap-build-challenge-week-1-formulas/td-p/227990)  
+    
+    This challenge is taken from the recent SAP Build Community Challenge, where you are given some data and need to manipulate it with a formula.
+    
+    See a [reference](https://docs.appgyver.com/docs/formula-functions-reference) of all the formula functions.
 
-* [Create a custom component and share it](/exercises/extra-credit/SharingComponents/README.md)
+    And see this [video](https://www.youtube.com/watch?v=ndJqYw4wMmc&t=226s) about working with formulas.
 
-    Creating custom components and sharing them with others is an advanced but important skill. In this standalone exercise you'll create a quick stopwatch component that you will share with other projects.
+* [Explore the Marketplace of components](https://docs.appgyver.com/docs/marketplace)
 
-## Additional Learnings
+    In addition to the basic components, SAP Build Apps provides a set of advanced UI components as well as logic flow functions within the Marketplace.  
+
+* [Explore Visual Cloud Functions](https://developers.sap.com/mission.sap-build-apps-social-media.html)
+
+    Do a mashup of business data with extended data stored in the new Visual Cloud Functions, a place for creating your own data models and server-side functions.
+    
+    Add "social media" functions to the business data by creating a rating system as well as a comment section.
+
+    This tutorial will teach you about creating your own UI components, creating additional pages in your app, navigating between pages, using formulas to manipulate data, and advanced UI techniques.
 
 
+## Further Learning 
 
-## Next
+- [SAP Build Tutorials](https://developers.sap.com/tutorial-navigator.html?tag=software-product%3Atechnology-platform%2Fsap-build)
+- [SAP Build Community Blog Posts](https://blogs.sap.com/tags/73555000100700001491/)
+- [Daniel's Blog Posts](https://people.sap.com/daniel.wroblewski#content:blogposts)
 
-Continue to 👉 [Add date picker to your sales order app](/exercises/extra-credit/DatePicker/README.md)
