@@ -12,12 +12,12 @@ For now, we won't give all the detailed instructions, but we will give you an ou
 
 1. Go to Marketplace and install the **Date field**.
 
-    ![Marketplace](/DateField/date1.png)
+    ![Marketplace](DateField/date1.png)
 
 
 2. Add a **Date field** next to the input field for the date.
 
-    ![Marketplace](/DateField/date2.png)
+    ![Marketplace](DateField/date2.png)
 
 3. Remove the **Label** text.
 
@@ -25,11 +25,11 @@ For now, we won't give all the detailed instructions, but we will give you an ou
 
     - In the 2 containers that contain the **Date field**, set the **Layout > Layout > Clip Overflowing Content** property to **No**.
 
-        ![Marketplace](/DateField/date3.png)
+        ![Marketplace](DateField/date3.png)
 
     - In the 2 containers that contain the **Date field**, set the **Layout > Position > Z-Index** to **1**.
 
-        ![Marketplace](/DateField/date4.png)
+        ![Marketplace](DateField/date4.png)
 
 5. Bind the **Selected value** property to the following formula:
 
