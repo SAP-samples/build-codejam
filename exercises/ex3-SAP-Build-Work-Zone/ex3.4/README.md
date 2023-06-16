@@ -32,3 +32,5 @@ This is the last tutorial in the SAP Build Code Jam.
 ## Next
 
 This is the end of the SAP Build Code Jam. We hope you've enjoyed it 😺.
+
+But if you're interested, you can continue to our extra credit tutorials and learnings 👉 [Date field](/exercises/extra-credit/README.md)

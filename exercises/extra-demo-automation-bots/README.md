@@ -1,6 +1,6 @@
 # Demo: Automation Bots in SAP Build Process Automation
 
-SAP Build Process Automation is made up the ability to create processes and automation bots. You created a process, but this code jam does not include exercises for automation bots. SO we would like to demo some of it for you.
+SAP Build Process Automation is made up the ability to create processes and automation bots. You created a process, but this code jam does not include exercises for automation bots. So we would like to demo some of it for you.
 
 ## Demo
 
