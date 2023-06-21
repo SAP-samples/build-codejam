@@ -31,13 +31,31 @@ For now, we won't give all the detailed instructions, but we will give you an ou
 
         ![Marketplace](DateField/date4.png)
 
-5. Bind the **Selected value** property to the following formula:
+5. Now we have to get the selected value into our data variable. We will not set the **Selected value** property but do this through an event.
+
+    Select the Date field. Select the event **Property 'Selected value' changed** and attach to it a **Set data variable** flow function.
+
+    ![Create event](DateField/setdate1.png)
+
+    Click on the **Set data variable** flow function.
+    
+    ![Create event](DateField/setdatavariable.png)
+
+    For the **Data variable name**, select our data variable.
+
+    For the **Record properties**, click on **Custom object** to reveal a single binding for the `salesorderdetails` field.
+
+    ![Create event](DateField/setdate2.png)
+
+    Set binding to the following formula:
 
     ```JavaScript
-    data["Trigger Workflow1"].salesorderdetails.expectedDeliveryDate
+    SET_KEY(DEFAULT(data["Trigger Workflow1"].salesorderdetails, {}),"expectedDeliveryDate", FORMAT_DATETIME_LOCAL(self.value,"YYYY-MM-DD"))   
     ```
 
+    >**QUESTION:** What does the formula do? And why does the formula editor show an error?
 
+At this point you could get rid of the old input box for the date field, and stylize the UI.
 
 ## Summary
 
