@@ -69,7 +69,7 @@ Simply use this [Give Feedback](https://github.com/SAP-samples/build-codejam/iss
 
 [Create an issue](https://github.com/SAP-samples/build-codejam/issues) in this repository if you find a bug or have questions about the content.
 
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
+For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html) or [ask a question in SAP Groups](https://groups.community.sap.com/t5/sap-builders/gh-p/builders)
 
 ## Contributing
 
