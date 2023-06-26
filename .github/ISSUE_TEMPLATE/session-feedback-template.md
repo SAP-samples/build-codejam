@@ -15,7 +15,7 @@ Thanks for taking a couple of minutes to give feedback, which will help me impro
 1. Then go through the questions and mark a single checkbox for each, to represent your answer
 1. Finally, in the empty comment box below this one, please describe what you liked and what you didn't like
 
-### What was your experience of the btp CLI before this session?
+### What was your experience of SAP Build before this session?
 
 - [ ] Not much at all
 - [ ] Basic knowledge
@@ -46,11 +46,11 @@ Thanks for taking a couple of minutes to give feedback, which will help me impro
 - [ ] About right
 - [ ] Helpful / informative
 
-### What is your feeling about the SAP Cloud Application Programming Model?
+### What is your feeling about SAP Build?
 
 - [ ] Still don't like it
 - [ ] I'm going to investigate further
 - [ ] I am suddenly a believer
-- [ ] I am or will be using the CAP more now
+- [ ] I am or will be using the SAP Build more now
 
 If you have time, please add a comment below to write free-form what you liked and what you disliked about the session. Thanks!
