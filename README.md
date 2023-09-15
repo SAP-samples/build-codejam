@@ -59,6 +59,16 @@ Here's an overview of the exercises in this CodeJam.
 
 [Extra Credit topics](/exercises/extra-credit/README.md) (coming soon) 
 
+### Pre-requisites
+
+#### Hardware
+If attending an in-person CodeJam, please bring your own laptop with power adapter.
+
+#### Software
+A supported Web browser such as Google Chrome, Firefox etc
+
+No other pre-requisites as such, as you will be provided login credentials during the in person codejam and the underlying BTP environment is already configured with required services.
+
 ## Feedback
 
 If you can spare a couple of minutes at the end of the day, please help me improve for next time by giving me some feedback.

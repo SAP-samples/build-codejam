@@ -2,10 +2,10 @@
 
 The SAP Build lobby is the starting point for all your SAP Build activities, whichever tool you will be using.
 
-To get setup, you will be given the following:
+At the codejam, you will be given the following:
 
 - Credentials for signing into SAP BTP
-- Link to open the lobby
+- Link to open the SAP Build lobby
 - Link to the SAP BTP cockpit (just to check your deployed app)
 - Link to the SAP Business Application Studio
 - An origin key (just for deploying your app when asked to sign in – this will be explained in the session)
@@ -25,9 +25,9 @@ The lobby shows you all your projects and all the projects that were shared with
 
 ![Lobby](/images/ex0/Lobby.png)
 
-Explorer the filtering capability (the filter icon is on the far right of the page), as well as the options for individual projects.
+Explore the filtering capability (the filter icon is on the far right of the page), as well as the options for individual projects.
 
-You can:
+You can try out the following capabilities:
 
 - Set who can work on the project (Manage Members).
 - Rename the project.
