@@ -28,15 +28,13 @@ The SAP Build CodeJam exercises are written as a series of tutorials. You will l
 
 The tutorials are maintained in the tutorial mission: [SAP Build CodeJam](https://developers.sap.com/mission.build-codejam.html)
 
-Here are links to the individual 
-
 ### Prerequisites
 
 #### Hardware
-If attending an in-person CodeJam, please bring your own laptop with power adapter.
+Please bring your own laptop with power adapter.
 
 #### Software
-A supported Web browser such as Google Chrome, Firefox etc
+A supported Web browser such as Google Chrome or Firefox.
 
 #### Before Arriving
 You should complete the prerequisites tutorial [Set Up Prerequisites for SAP Build CodeJam](https://developers.sap.com/tutorials/codejam-0-prerequisites.html), which:
