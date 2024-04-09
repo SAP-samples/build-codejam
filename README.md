@@ -4,26 +4,18 @@
 
 ## Description
 
-This repository contains the material for the CodeJam on using **SAP Build** to create a process, an app, and a business site. 
+This repository contains the material for the **SAP Build CodeJam**, which is designed to get you started using SAP Build Apps and SAP Build Process Automation.
 
-Specifically, you will get to know the environment by creating:
-
-* A sales order approval process (**SAP Build Process Automation**).
-* An app that lets users specify sales order data and trigger that process (**SAP Build Apps**).
-* A business site in which you will embed that app (**SAP Build Work Zone**).
+During the **SAP Build Codejam** you will build an app and a process, and the instructors will demo additional capabilities of SAP Build Process Automation (e.g., automation bots) and SAP Build Work Zone (e.g., business sites and embedding apps).
 
 ![SAP Build](/images/MyPresentation.png)
 
 
 ### What you will build
 
-You will build an application that allows a user to enter sales order data, and then allows a manager to approve the sales order. To make all this simpler for the user, you will embed the app inside a business website along with other related apps and tools.
+You will build a shopping cart app that lets a user browse a catalog of electronic equipment (take from the ABAP / ES5 demo product service), add items to their cart (maintained with a CAP service), and then request to purchase the items in the cart.
 
-To accomplish this, you will create 3 inter-related parts using for each one of the SAP Build tools:
-
-- First, you will create the process with SAP Build Process Automation for taking sales order details, which will send a request for approval to the manager.
-- Second, you will create an app with SAP Build Apps that allows a user to enter sales order details and sends the data to the process and triggers the process.
-- And third, you will create a workspace in SAP Build Work Zone and embed the app there.
+Then, you will create a process for approving the purchase. The process will make calls to S/4HANA (via SAP Business Accelerator Hub) and on approval update the CAP service maintaining the purchase request.
 
 ![image](https://user-images.githubusercontent.com/11659786/231709754-a833a81f-d9ee-4911-9dfe-710fcdcc404c.png)
 
@@ -34,30 +26,14 @@ During the CodeJam you will complete each exercise one at a time. At the end of 
 
 If you finish an exercise early, please resist the temptation to continue with the next one. Instead, explore what you've just done and see if you can find out more about the subject that was covered. That way we all stay on track together and can benefit from some reflection via the questions (and answers).
 
-The exercises are written in a conversational way; this is so that they have enough context and information to be completed outside the hands-on session itself. To help you navigate and find what you have to actually do next, there are pointers like this 👉 throughout that indicate the things you have to actually do (as opposed to just read for background information).
-
 
 ### The exercises
 
-Here's an overview of the exercises in this CodeJam.
+The SAP Build CodeJam exercises are written as a series of tutorials. You will likely not finish them all (we estimate around Tutorial 7). But we have provided additional exercises that you can do at home after the CodeJam that continues the experience and explains additional topics.
 
-* 👉 [Getting Started with the SAP Build Lobby](exercises/ex0-Getting-Started/README.md)
-  * [Important Tips Before Starting](exercises/ex0-Getting-Started/ImportantTips.md)
-* SAP Build Process Automation
-  * [Exercise 1.1 - Create Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.1/README.md)
-  * [Exercise 1.2 - Run the Sales Order Business Process](exercises/ex1-SAP-Build-Process-Automation/ex1.2/README.md) 
-* SAP Build Apps
-  * [Exercise 2.1 - Create SAP Build App to Trigger Workflow](exercises/ex2-SAP-Build-Apps/ex2.1/README.md)
-  * [Exercise 2.2 - Populate Dropdown with SAP Data (ES5)](exercises/ex2-SAP-Build-Apps/ex2.2/README.md) (optional)
-  * [Exercise 2.3 - Check Status of Process from SAP Build App](exercises/ex2-SAP-Build-Apps/ex2.3/README.md) (optional)
-  * [Exercise 2.4 - Deploy SAP Build App to SAP BTP](exercises/ex2-SAP-Build-Apps/ex2.4/README.md)
-* SAP Build Work Zone
-  * [Exercise 3.1 - Add a Workspace to SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.1/README.md)
-  * [Exercise 3.2 - Add a Web Dynpro ABAP App to Your SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.2/README.md)
-  * [Exercise 3.3 - Integrate an SAP Build App Application into SAP Build Work Zone](/exercises/ex3-SAP-Build-Work-Zone/ex3.3/README.md)
-  * [Exercise 3.4 - Create/Add UI5 Integration Card to Display Business Data](/exercises/ex3-SAP-Build-Work-Zone/ex3.4/README.md) (optional)
+The tutorials are maintained in the tutorial mission: [SAP Build CodeJam](https://developers.sap.com/mission.build-codejam.html)
 
-[Extra Credit topics](/exercises/extra-credit/README.md) (coming soon) 
+Here are links to the individual 
 
 ### Prerequisites
 
@@ -67,13 +43,12 @@ If attending an in-person CodeJam, please bring your own laptop with power adapt
 #### Software
 A supported Web browser such as Google Chrome, Firefox etc
 
-No other prerequisites as such, as you will be provided login credentials during the in person codejam and the underlying BTP environment is already configured with required services.
-
-## Feedback
-
-If you can spare a couple of minutes at the end of the day, please help me improve for next time by giving me some feedback.
-
-Simply use this [Give Feedback](https://github.com/SAP-samples/build-codejam/issues/new?assignees=&labels=feedback&template=session-feedback-template.md&title=Feedback) link to create a special "feedback" issue, and follow the instructions in there.
+#### Before Arriving
+You should complete the prerequisites tutorial [Set Up Prerequisites for SAP Build CodeJam](https://developers.sap.com/tutorials/codejam-0-prerequisites.html), which:
+* Sets up an SAP Business technology Platform trial account
+* Sets up SAP Build Apps (and user in custom identity provider)
+* Sets up SAP Build Process Automation
+* Sets up a user for the ES5 demo system + destination to ES5 from SAP BTP
 
 ## How to obtain support
 
