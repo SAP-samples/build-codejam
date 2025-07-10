@@ -41,7 +41,6 @@ You should complete the prerequisites tutorial [Set Up Prerequisites for SAP Bui
 * Sets up an SAP Business technology Platform trial account
 * Sets up SAP Build Apps (and user in custom identity provider)
 * Sets up SAP Build Process Automation
-* Sets up a user for the ES5 demo system + destination to ES5 from SAP BTP
 
 ## How to obtain support
 
