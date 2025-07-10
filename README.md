@@ -13,7 +13,7 @@ During the **SAP Build Codejam** you will build an app and a process, and the in
 
 ### What you will build
 
-You will build a shopping cart app that lets a user browse a catalog of electronic equipment (take from the ABAP / ES5 demo product service), add items to their cart (maintained with a CAP service), and then request to purchase the items in the cart.
+You will build a shopping cart app that lets a user browse a catalog of electronic equipment (taken from a CAP service), add items to their cart (maintained with a CAP service), and then request to purchase the items in the cart.
 
 ![image](images/app.png)
 
